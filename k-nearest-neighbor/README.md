@@ -2,7 +2,7 @@
 A machine learning algorithm that can classify unknown data points by looking at the 'k' number of nearest neighbors.
 
 
-##ELI5
+##ELI5 (Explain like I'm 5)
 There is a field where 3 kinds of plants can grow.
 The top side of the field gets a lot of sun and can grow avocados.
 Towards the left doesn't get a lot of sun but it's good for herbs.
