@@ -8,8 +8,8 @@ The top side of the field gets a lot of sun and can grow avocados.
 Towards the left doesn't get a lot of sun but it's good for herbs.
 Towards the right it gets a lot of water so it's great for melons.
 
-| Avocados      |
-| ------------- |
+| Avocados              |
+| ------------- |-------|
 | Herbs         | Melon |
 
 - - - - - - - - - - - 
