@@ -7,15 +7,6 @@ There is a field where 3 kinds of plants can grow.
 The top side of the field gets a lot of sun and can grow avocados.
 Towards the left doesn't get a lot of sun but it's good for herbs.
 Towards the right it gets a lot of water so it's great for melons.
-_ _ _ _ _ _ _ _ _ _ _
-|                   |
-|      avocados     |
-|-------------------|
-|         |         |
-|  herbs  |  melon  |
-|         |         |
-|         |         |
-|-------------------|
 
 A sprout grows in this field, but you are not quite sure what it is.
 But you can make a pretty good guess just based on where it is in the field because if you know most of the plants closest to it are melons, the unknown sprout is probably a melon plant.
