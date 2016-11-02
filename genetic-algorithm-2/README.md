@@ -1,10 +1,10 @@
-##k-means-clustering
+## k-means-clustering
 
 
-##ELI5
+## ELI5
 
 
-##How this is implemented
+## How this is implemented
 
 
-##Things to watch out for
+## Things to watch out for
